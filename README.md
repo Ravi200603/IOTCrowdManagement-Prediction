@@ -100,3 +100,7 @@ IOTCrowdManagement-Prediction/
 │   ├── <train_model.py>
 │   └── <predict_next_2_hours.py>
 └── README.md
+```
+
+🎥 Project Demo
+<a href="https://youtu.be/CXEYt82gjqI" target="_blank"> <img src="https://img.youtube.com/vi/CXEYt82gjqI/maxresdefault.jpg" alt="SmartBus Demo Video" style="width:100%; border-radius:12px;"> </a>
